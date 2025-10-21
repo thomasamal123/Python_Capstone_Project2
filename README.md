@@ -71,7 +71,7 @@ This heatmap provided a quick visual overview of how different numeric variables
 - The company has 30 teams, with nearly balanced employee counts.
 - Shooting Guards (SG) make up the largest position group.
 - The workforce is mostly aged between 25–29 years.
-- The Cleveland Cavaliers’ Power Forwards have the highest total salary expenditure.
+- The Los Angeles Lakers – Small Forward (SF) have the highest total salary expenditure.
 - Age and salary show a weak positive correlation.
 - Height and weight show a strong positive correlation.
 
