@@ -49,8 +49,8 @@ The bar chart clearly highlighted that the younger groups dominate the organizat
 By grouping data by both `Team` and `Position`, I calculated the total salary expenditure for each combination.  
 The **Los Angeles Lakers – Small Forward (SF)** combination had the **highest total salary (≈ 31.86 million)**, showing where the company invests most heavily.  
 The bar graph of top salary combinations made this insight very clear.
----
 
+---
 
 ##  Step 6 — Correlation Between Age and Salary
 To understand the relationship between age and salary, I computed their correlation and plotted a scatter graph.  
@@ -59,7 +59,7 @@ The regression line on the scatter plot confirmed this mild upward trend.
 
 ---
 
-##  Step 6 (Bonus) — Correlation Heatmap
+##  Step 6 — Correlation Heatmap
 To explore all numeric relationships, a correlation heatmap was created.  
 It revealed that **Height and Weight** were strongly correlated, while **Age and Salary** had a weak positive correlation.  
 This heatmap provided a quick visual overview of how different numeric variables relate to one another.
