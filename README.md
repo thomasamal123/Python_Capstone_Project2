@@ -1,6 +1,6 @@
 # ABC Company Employee Data Analysis — Capstone Project 2
 
-## 📘 Project Overview
+##  Project Overview
 This project analyzes employee data from **ABC Company**, containing 458 rows and 9 columns. 
 The goal was to clean the dataset, perform multiple analyses, and visualize key insights using Python libraries such as **pandas**, **numpy**, **matplotlib**, and **seaborn**.
 
