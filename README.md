@@ -44,12 +44,13 @@ The bar chart clearly highlighted that the younger groups dominate the organizat
 
 ---
 
-##  Step 5 — Highest Salary Expenditure
-By grouping data by both `Team` and `Position`, I calculated total salary expenditure.  
-The **Cleveland Cavaliers – Power Forward (PF)** combination had the **highest salary**, showing where the company invests most.  
-The bar graph of top salary combinations made this insight very clear.
+## Step 5 — Highest Salary Expenditure
 
+By grouping data by both `Team` and `Position`, I calculated the total salary expenditure for each combination.  
+The **Los Angeles Lakers – Small Forward (SF)** combination had the **highest total salary (≈ 31.86 million)**, showing where the company invests most heavily.  
+The bar graph of top salary combinations made this insight very clear.
 ---
+
 
 ##  Step 6 — Correlation Between Age and Salary
 To understand the relationship between age and salary, I computed their correlation and plotted a scatter graph.  
